@@ -24,3 +24,14 @@ D:\Projetos\Triad\ControleTarefas\ControleTarefas.Presentation.Web\bin\Newtonsof
 D:\Projetos\Triad\ControleTarefas\ControleTarefas.Presentation.Web\obj\Debug\ControleTarefas.Presentation.Web.csprojResolveAssemblyReference.cache
 D:\Projetos\Triad\ControleTarefas\ControleTarefas.Presentation.Web\obj\Debug\sb-admin-2.Web.dll
 D:\Projetos\Triad\ControleTarefas\ControleTarefas.Presentation.Web\obj\Debug\sb-admin-2.Web.pdb
+D:\Projetos\Triad\ControleTarefas\ControleTarefas.Presentation.Web\bin\AutoMapper.dll
+D:\Projetos\Triad\ControleTarefas\ControleTarefas.Presentation.Web\bin\Itriad.Application.dll
+D:\Projetos\Triad\ControleTarefas\ControleTarefas.Presentation.Web\bin\itriad.Domain.dll
+D:\Projetos\Triad\ControleTarefas\ControleTarefas.Presentation.Web\bin\Itriad.Infra.CrossCutting.Common.dll
+D:\Projetos\Triad\ControleTarefas\ControleTarefas.Presentation.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Projetos\Triad\ControleTarefas\ControleTarefas.Presentation.Web\bin\Itriad.Application.pdb
+D:\Projetos\Triad\ControleTarefas\ControleTarefas.Presentation.Web\bin\itriad.Domain.pdb
+D:\Projetos\Triad\ControleTarefas\ControleTarefas.Presentation.Web\bin\AutoMapper.xml
+D:\Projetos\Triad\ControleTarefas\ControleTarefas.Presentation.Web\bin\Itriad.Infra.CrossCutting.Common.pdb
+D:\Projetos\Triad\ControleTarefas\ControleTarefas.Presentation.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Projetos\Triad\ControleTarefas\ControleTarefas.Presentation.Web\bin\Microsoft.Practices.ServiceLocation.xml

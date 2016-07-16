@@ -8,5 +8,3 @@ D:\Projetos\Triad\ControleTarefas\itriad.Domain\bin\Debug\Microsoft.Practices.Se
 D:\Projetos\Triad\ControleTarefas\itriad.Domain\bin\Debug\Microsoft.Practices.ServiceLocation.xml
 D:\Projetos\Triad\ControleTarefas\itriad.Domain\obj\Debug\itriad.Domain.dll
 D:\Projetos\Triad\ControleTarefas\itriad.Domain\obj\Debug\itriad.Domain.pdb
-D:\Projetos\Triad\ControleTarefas\itriad.Domain\bin\Debug\itriad.Domain.dll.CodeAnalysisLog.xml
-D:\Projetos\Triad\ControleTarefas\itriad.Domain\bin\Debug\itriad.Domain.dll.lastcodeanalysissucceeded

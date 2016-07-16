@@ -10,5 +10,3 @@ D:\Projetos\Triad\ControleTarefas\Itriad.Application\bin\Debug\Microsoft.Practic
 D:\Projetos\Triad\ControleTarefas\Itriad.Application\obj\Debug\Itriad.Application.csprojResolveAssemblyReference.cache
 D:\Projetos\Triad\ControleTarefas\Itriad.Application\obj\Debug\Itriad.Application.dll
 D:\Projetos\Triad\ControleTarefas\Itriad.Application\obj\Debug\Itriad.Application.pdb
-D:\Projetos\Triad\ControleTarefas\Itriad.Application\bin\Debug\Itriad.Application.dll.CodeAnalysisLog.xml
-D:\Projetos\Triad\ControleTarefas\Itriad.Application\bin\Debug\Itriad.Application.dll.lastcodeanalysissucceeded

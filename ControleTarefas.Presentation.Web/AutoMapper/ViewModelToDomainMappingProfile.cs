@@ -1,5 +1,5 @@
-﻿using ControleTarefas.Domain.Entities;
-using ControleTarefas.Portal.ViewModels;
+﻿//using ControleTarefas.Domain.Entities;
+//using ControleTarefas.Portal.ViewModels;
 using AutoMapper;
 
 namespace ControleTarefas.Presentation.Web.AutoMapper
@@ -8,8 +8,8 @@ namespace ControleTarefas.Presentation.Web.AutoMapper
     {
         protected override void Configure()
         {
-            this.CreateMap<Cliente, ClienteVM>();
-            this.CreateMap<Produto, ProdutoVM>();
+            //this.CreateMap<Cliente, ClienteVM>();
+            //this.CreateMap<Produto, ProdutoVM>();
         }
     }
 }

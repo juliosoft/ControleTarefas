@@ -45,11 +45,6 @@
     <Compile Include="Enum\ePRIORIDADE.cs" />
     <Compile Include="Enum\eSITBACKLOGITEM.cs" />
     <Compile Include="Enum\eTIPOBACKLOGITEM.cs" />
-    <Compile Include="Language\Lang.pt-BR.Designer.cs">
-      <DependentUpon>Lang.pt-BR.resx</DependentUpon>
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <Compile Include="Language\Lang.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -60,10 +55,6 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <EmbeddedResource Include="Language\Lang.pt-BR.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Lang.pt-BR.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Language\Lang.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Lang.Designer.cs</LastGenOutput>

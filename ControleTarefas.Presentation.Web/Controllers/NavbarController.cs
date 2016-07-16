@@ -1,5 +1,5 @@
 ﻿using ControleTarefas.Presentation.Web.Domain;
-using ControleTarefas.Presentation.Web.Models;
+using ControleTarefas.Presentation.Web.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
