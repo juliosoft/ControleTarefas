@@ -1,0 +1,7 @@
+D:\Projetos\Triad\ControleTarefas\Itriad.Infra.CrossCutting.Common\bin\Debug\Itriad.Infra.CrossCutting.Common.dll
+D:\Projetos\Triad\ControleTarefas\Itriad.Infra.CrossCutting.Common\bin\Debug\Itriad.Infra.CrossCutting.Common.pdb
+D:\Projetos\Triad\ControleTarefas\Itriad.Infra.CrossCutting.Common\obj\Debug\Itriad.Infra.CrossCutting.Common.dll
+D:\Projetos\Triad\ControleTarefas\Itriad.Infra.CrossCutting.Common\obj\Debug\Itriad.Infra.CrossCutting.Common.pdb
+D:\Projetos\Triad\ControleTarefas\Itriad.Infra.CrossCutting.Common\bin\Debug\Itriad.Infra.CrossCutting.Common.dll.CodeAnalysisLog.xml
+D:\Projetos\Triad\ControleTarefas\Itriad.Infra.CrossCutting.Common\bin\Debug\Itriad.Infra.CrossCutting.Common.dll.lastcodeanalysissucceeded
+D:\Projetos\Triad\ControleTarefas\Itriad.Infra.CrossCutting.Common\obj\Debug\Itriad.Infra.CrossCutting.Common.csprojResolveAssemblyReference.cache
