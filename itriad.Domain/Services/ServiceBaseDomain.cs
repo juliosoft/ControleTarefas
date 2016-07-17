@@ -27,7 +27,7 @@ namespace Itriad.Domain.Services
             }
             catch (Exception ex)
             {
-                throw new ApplicationException(GenericMessage.Error());
+                throw new ApplicationException(GenericMessage.Error() + " - " + ex.Message);
             }
         }
 
@@ -39,7 +39,7 @@ namespace Itriad.Domain.Services
             }
             catch (Exception ex)
             {
-                throw new ApplicationException(GenericMessage.Error());
+                throw new ApplicationException(GenericMessage.Error() + " - " + ex.Message);
             }
         }
 
@@ -51,7 +51,7 @@ namespace Itriad.Domain.Services
             }
             catch (Exception ex)
             {
-                throw new ApplicationException(GenericMessage.Error());
+                throw new ApplicationException(GenericMessage.Error() + " - " + ex.Message);
             }
         }
 
@@ -71,7 +71,7 @@ namespace Itriad.Domain.Services
             catch (Exception ex)
             {
                 _unitOfWork.RollBack();
-                throw new ApplicationException(GenericMessage.Error());
+                throw new ApplicationException(GenericMessage.Error() + " - " + ex.Message);
             }
         }
 
@@ -84,7 +84,7 @@ namespace Itriad.Domain.Services
             }
             catch (Exception ex)
             {
-                throw new ApplicationException(GenericMessage.Error());
+                throw new ApplicationException(GenericMessage.Error() + " - " + ex.Message);
             }
         }
 
@@ -103,7 +103,7 @@ namespace Itriad.Domain.Services
             catch (Exception ex)
             {
                 RollBack();
-                throw new Exception(GenericMessage.Error());
+                throw new ApplicationException(GenericMessage.Error() + " - " + ex.Message);
             }
         }
 

@@ -3,6 +3,7 @@ using Itriad.Infra.Data.Context;
 using Microsoft.Practices.ServiceLocation;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Data;
 using System.Data.Entity;
 using System.Linq;
@@ -38,7 +39,7 @@ namespace Itriad.Infra.Data.Repositories
             }
             catch (Exception e)
             {
-                throw;
+                throw new WarningException(e.Message);
             }
         }
 

@@ -5,10 +5,10 @@ namespace ControleTarefas.Presentation.Web.AutoMapper
 {
     public class DomainToViewModelMappingProfile : Profile
     {
-        protected override void Configure()
-        {
-            //this.CreateMap<ClienteVM, Cliente>();
-            //this.CreateMap<ProdutoVM, Produto>();
-        }
+        //protected override void Configure()
+        //{
+        //    //this.CreateMap<ClienteVM, Cliente>();
+        //    //this.CreateMap<ProdutoVM, Produto>();
+        //}
     }
 }

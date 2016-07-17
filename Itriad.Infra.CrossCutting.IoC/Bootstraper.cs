@@ -54,7 +54,7 @@ namespace Itriad.Infra.CrossCutting.IoC
 
                 ServiceLocator.SetLocatorProvider(() => new SimpleInjectorServiceLocatorAdapter(container));
             }
-            catch (System.Exception e)
+            catch (System.Exception)
             {
 
                 throw;

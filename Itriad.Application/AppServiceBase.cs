@@ -24,7 +24,7 @@ namespace Itriad.Application
             {
                 return _serviceBase.GetAll();
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 throw;
             }
